@@ -40,3 +40,8 @@ heroku ps:scale web=1
 ```bash
 heroku open
 ```
+
+### Check resources
+```bash
+curl https://jsonserverjs.herokuapp.com/posts?_embed=comments
+```
