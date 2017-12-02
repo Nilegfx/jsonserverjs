@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "first post"
+    },
+    {
+      "id": 2,
+      "title": "second post"
+    },
+    {
+      "id": 3,
+      "title": "third post"
+    }
+  ],
+  "comments": [
+
+    {
+      "id": 1,
+      "postId": 1,
+      "comment": "first comment"
+    },
+    {
+      "id": 1,
+      "postId": 1,
+      "comment": "first comment"
+    },
+    {
+      "id": 1,
+      "postId": 3,
+      "comment": "first comment"
+    }
+  ]
+}
